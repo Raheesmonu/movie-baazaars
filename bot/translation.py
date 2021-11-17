@@ -48,7 +48,7 @@ Movie baazaars
     
     ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
     
-<b>➥ Creator</b> : <b><i><a href="https://git.heroku.com/moviebaazaars.git</a></i></b>
+<b>➥ Creator</b> : <b><i><a href="M0nuttan">Rahees</a></i></b>
 
 <b>➥ Language</b> : <code>Python3</code>
 
