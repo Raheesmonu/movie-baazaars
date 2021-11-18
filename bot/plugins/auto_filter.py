@@ -206,7 +206,7 @@ async def auto_filter(bot: Client, update: Message):
         try:
             await bot.send_message(
                 chat_id = update.chat.id,
-                text=f"📂FILM NAME:<code>{query}</code> <b>📀MOVIE BAAZAARS </b>Found {(len_results)} Results For Your Enquiry  📌 ചോദിച്ച മൂവി ഫയൽ കാണുന്നില്ല എങ്കിൽ അടുത്ത പേജിൽ നോക്കുക",
+                text=f"📂FILM NAME:<code>{query}</code> \n <b>📀MOVIE BAAZAARS </b>Found {(len_results)} Results For Your Enquiry \n 📌 ചോദിച്ച മൂവി ഫയൽ കാണുന്നില്ല എങ്കിൽ അടുത്ത പേജിൽ നോക്കുക",
                 reply_markup=reply_markup,
                 parse_mode="html",
                 reply_to_message_id=update.message_id
