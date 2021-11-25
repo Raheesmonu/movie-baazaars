@@ -28,14 +28,14 @@ async def start(bot, update):
             await update.reply_cached_media(
                 file_id,
                 quote=True,
-                caption = f"📂<b>Movie_Baazaars </b>🔰 {file_name}  🔰",
+                caption = f"📂<b>FILM_DOX_</b>{file_name}  ",
                 parse_mode="html",
                 reply_markup=InlineKeyboardMarkup(
                     [
                         [
                             InlineKeyboardButton
                                 (
-                                    '⚜️OUR GROUP⚜️', url="https://t.me/joinchat/2kBSBV7gWbQwYzI1"
+                                    '⚜️OUR GROUP⚜️', url="https://t.me/+Eb5XW5ZeSkJhYjM1"
                                 )
                         ]
                     ]
@@ -47,7 +47,7 @@ async def start(bot, update):
         return
 
     buttons = [[
-        InlineKeyboardButton('⚜️ OUR CHANNEL ⚜️', url='https://t.me/joinchat/2kBSBV7gWbQwYzI1'),
+        InlineKeyboardButton('⚜️ OUR CHANNEL ⚜️', url='https://t.me/+Eb5XW5ZeSkJhYjM1'),
     ]]
     
     reply_markup = InlineKeyboardMarkup(buttons)
