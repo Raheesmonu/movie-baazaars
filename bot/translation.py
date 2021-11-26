@@ -4,13 +4,13 @@
 
 class Translation(object):
     
-    START_TEXT = """<b>Hey bro {}!!...</b>
-<i>Am Movie_Baazaars Advance Auto Filter Bot....😉
+    START_TEXT = """<b>Hey {}_Bro!!...</b>
+<i>Am  Advance Auto Filter Bot....😉
 
 Welcome to<b>M_D</b> 🔥🔥😝
 
 For More Details Click Help Button Below..
-Movie baazaars
+
 </i>"""    
     
     HELP_TEXT = """
