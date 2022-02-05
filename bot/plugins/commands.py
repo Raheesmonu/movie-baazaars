@@ -35,10 +35,10 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '⚜️OUR GROUP⚜️', url="https://t.me/+2kBSBV7gWbQwYzI1"
+                                    '⚜️OUR GROUP⚜️', url="https://t.me/+Eb5XW5ZeSkJhYjM1"
                                 )
                         ],[
-        InlineKeyboardButton('⚜️SUB GROUP⚜️',url="https://t.me/+Eb5XW5ZeSkJhYjM1")
+        InlineKeyboardButton('⚜️FILM UPDATE⚜️',url="https://t.me/filmupdater")
                     ]]
                 )
             )
